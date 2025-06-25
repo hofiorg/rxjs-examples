@@ -32,11 +32,11 @@ A collection of practical RxJS examples demonstrating various operators, pattern
 
 ## 🌐 Related Links
 
-| Name                            | Link                                                                                       |
-|---------------------------------|--------------------------------------------------------------------------------------------|
-| RxJS                            | <https://rxjs-dev.firebaseapp.com>                                                         |
-| ReactiveX                       | <http://reactivex.io/>                                                                     |
-| Babel installation              | <https://babeljs.io/setup#installation>                                                    |
-| @babel/preset-env               | <https://babeljs.io/docs/babel-preset-env>                                                 |
-| Using file-watchers in IntelliJ | <https://www.jetbrains.com/help/idea/using-file-watchers.html>                             |
-| Spread Operator (MDN)           | <https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator> |
+| Namen                                           | Link                                                                                       |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| RxJS                                            | <https://rxjs-dev.firebaseapp.com>                                                         |
+| ReactiveX                                       | <http://reactivex.io/>                                                                     |
+| Babel&nbsp;Installation                         | <https://babeljs.io/setup#installation>                                                    |
+| @babel/preset-env                               | <https://babeljs.io/docs/babel-preset-env>                                                 |
+| Using&nbsp;File Watchers﻿&nbsp;in&nbsp;IntelliJ | <https://www.jetbrains.com/help/idea/using-file-watchers.html>                             |
+| Spread&nbsp;Operator&nbsp;(MDN)                 | <https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator> |
